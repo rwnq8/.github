@@ -10,9 +10,10 @@ them. I am a systems researcher, not a software engineer. My work is system
 design, modeling, evaluation and oversight.
 
 That work grows out of two decades of network modeling and data-driven decision
-systems: transportation network and GIS work from my first job in
-transportation, technical components of the U.S. Federal Highway
-Administration's national Tour-Based Model System, analytics and machine
+systems: transportation network modeling from my early jobs in
+transportation planning, specifying the U.S. Federal Highway
+Administration's national Tour-Based Model System and co-directing the $10M
+National Household Travel Survey, analytics and machine
 learning at Deloitte, and the AARP Livability Index.
 
 ---
@@ -40,11 +41,12 @@ here carry the [QNFO License](https://github.com/QNFO/license) and
 ## Background
 
 - **Career:** Founder, QNFO (2024 to now); Executive Director, Empowering Change
-  (LLM legal-navigation tool, 2023 to 2024); product roles at iManage and Epsilon;
+  (LLM legal-navigation tool, 2023 to 2024); product roles at iManage and Epsilon (data products built on
+  predictive machine-learning models);
   Product Manager, AARP Livability Index (2016 to 2021); Deloitte data analytics
   (2015 to 2016); Data Analyst and Research Manager, U.S. DOT Federal Highway
-  Administration (2011 to 2015); transportation network and systems planning
-  work at DVRPC and IBI Group (2004 to 2011). Full [CV](https://github.com/rwnq8/resume).
+  Administration (2011 to 2015); transportation network modeling at DVRPC and IBI
+  Group (2005 to 2011). Full [CV](https://github.com/rwnq8/resume).
 - **Education:** M.S. City and Regional Studies, Rutgers University (2008);
   B.A. Urban Studies and Community Planning, Rutgers University-Camden (2004)
 - **Work:** [papers.qnfo.org](https://papers.qnfo.org). Earlier work is published
